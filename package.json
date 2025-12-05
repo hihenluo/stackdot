@@ -1,14 +1,8 @@
 {
-  "name": "thirdweb-token-marketplace",
+  "name": "token-marketplace",
   "version": "1.0.0",
   "private": true,
   "description": "A modern, black-themed token marketplace and cross-chain bridge built with Next.js, React, Tailwind CSS, and the thirdweb SDK.",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/YOUR_GITHUB_USERNAME/thirdweb-token-marketplace.git"
-  },
-  "homepage": "https://github.com/YOUR_GITHUB_USERNAME/thirdweb-token-marketplace",
-  "author": "YOUR NAME",
   "license": "MIT",
   "scripts": {
     "dev": "next dev",
